@@ -1,9 +1,8 @@
-#navbar{
+.navbar{
     position: fixed;
     display:flex;
     font-size: 20px;
-    border: firebrick;
-    border-style: groove;
+  
     font-style: italic;
     resize: auto;
     
